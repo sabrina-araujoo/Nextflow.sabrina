@@ -4,7 +4,7 @@ Este pipeline transforma arquivos FASTQ emparelhados em arquivos VCF, usando bwa
 
 ## Como usar
 - É necessário ativar ambiente conda
-  conda activate base
+- "conda activate base"
 
 - Usar os arquivos do data e referencia 
 
