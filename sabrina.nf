@@ -40,9 +40,9 @@ process print_pairs {
 
     script:
     """
-    echo "📦 Sample: $sample"
-    echo "🔹 Read 1: $read1"
-    echo "🔹 Read 2: $read2"
+    echo " Sample: $sample"
+    echo " Read 1: $read1"
+    echo " Read 2: $read2"
     """
 }
 
